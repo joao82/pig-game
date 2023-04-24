@@ -1,35 +1,24 @@
 ## ⭐ Pig Game ⭐
 
-This repository contains projects given us as an assignment into **"JavaScript Full Stack Web Developer Bootcamp"** by **Jonas Schmedtmann**, built using **HTML5, CSS3 and JavaScript**.
-
-<br>
-<br>
+This repository contains projects given us as an assignment into **"Complete JavaScript Course"** by **Jonas Schmedtmann**, built using **HTML5, CSS3 and JavaScript**.
 
 ## 📌 **Live Site URL:** <a href="https://pig-game.joao-martins.net/">**Visit Now** 🚀</a>
-
-<br>
 
 ## 📌 Tech Stack
 
 [![HTML](https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)](https://github.com/joao82)&nbsp;
 [![CSS](https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white)](https://github.com/joao82)&nbsp;
-[![Javascript](https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white)](https://github.com/prakash-naikwadi)&nbsp;
-<br>
+[![Javascript](https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white)](https://github.com/joao82)&nbsp;
 <br>
 
 ## 📌 Overview
-
-<br>
 
 ![Screenshot](./static/images/pig-game.png?raw=true 'Template Screenshot')
 
 ## 📌 My process
 
-- I joined a bootcamp **"JavaScript Full Stack Web Developer Bootcamp"** by **iNeuron**.<a href="https://ineuron.ai/"> **Check🚀 (Not Sponsered)**</a>
+- I joined the **"Complete JavaScript course"** by **Jonas Schmedtmann** to learn javascript from zero.<a href="https://www.udemy.com/the-complete-javascript-course/?couponCode=C3GITHUB10"> **Check🚀 (Not Sponsered)**</a>
 - This project is given to us as an assignment.
-- After completing paytm clone for about **16 hours** started developing this shopify clone.
-- It took me about **15 hours** to complete this project.
-- During this **15 hours** process learned about the new CSS framework i.e. Tailwind CSS.
 
 ## 📌 What I Learn
 
